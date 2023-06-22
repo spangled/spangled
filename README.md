@@ -1,16 +1,8 @@
 ## @spangled
 
-Some description about yourself.
-
-### Subheading
-
-More information here.
-
-#### Sub-subheading
-
-Additional details.
+Hello, I'm @spangled! I post absoloutely whatever i want to!
 
 ##### Sub-sub-subheading
 
-Even more details.
+@spangled on github.com
 
